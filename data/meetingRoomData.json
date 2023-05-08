@@ -1,0 +1,149 @@
+{
+  "roomdata": {
+    "name": "Focus Room",
+    "meetings": [
+      {
+        "name": "Focus Room 1",
+        "id": "1",
+        "start_time": "2023-04-26T08:10:18.386Z",
+        "end_time": "2023-04-26T18:10:18.386Z",
+        "participants_id": [1, 5],
+        "description": "Here we go for some fun"
+      },
+      {
+        "name": "Focus Room 2",
+        "id": "2",
+        "start_time": "2023-04-13T09:10:18.386Z",
+        "end_time": "2023-04-13T12:10:18.386Z",
+        "participants_id": [1, 2, 3, 5],
+        "description": "Nothing to see here"
+      },
+      {
+        "name": "Focus Room 3",
+        "id": "3",
+        "start_time": "2023-04-13T06:10:18.386Z",
+        "end_time": "2023-04-13T08:10:18.386Z",
+        "participants_id": [1, 2, 3],
+        "description": "Hello there"
+      },
+      {
+        "name": "Focus Room 4",
+        "id": "4",
+        "start_time": "2023-04-13T08:10:18.386Z",
+        "end_time": "2023-04-13T11:11:18.386Z",
+        "participants_id": [1, 2],
+        "description": "Forbidden for people under 30 years old"
+      },
+      {
+        "name": "Focus Room 5",
+        "id": "5",
+        "start_time": "2023-04-13T12:10:18.386Z",
+        "end_time": "2023-04-13T13:10:18.386Z",
+        "participants_id": [1, 2, 4, 3],
+        "description": "Exit"
+      }
+    ]
+  },
+  "meetings": [
+    {
+      "meetingName": "Focus Room 1",
+      "id": "1",
+      "startDate": "2023-04-28T10:20:18.386Z",
+      "endDate": "2023-04-28T18:35:18.386Z",
+      "participants": [1, 5],
+      "description": "Here we go for some fun"
+    },
+    {
+      "meetingName": "Focus Room 2",
+      "id": "2",
+      "startDate": "2023-04-13T09:10:18.386Z",
+      "endDate": "2023-04-13T12:10:18.386Z",
+      "participants": [1, 2, 3, 5],
+      "description": "Nothing to see here"
+    },
+    {
+      "meetingName": "Focus Room 3",
+      "id": "3",
+      "startDate": "2023-04-13T06:10:18.386Z",
+      "endDate": "2023-04-13T08:10:18.386Z",
+      "participants": [1, 2, 3],
+      "description": "Hello there"
+    },
+    {
+      "meetingName": "Focus Room 4",
+      "id": "4",
+      "startDate": "2023-04-13T08:10:18.386Z",
+      "endDate": "2023-04-13T11:11:18.386Z",
+      "participants_id": [1, 2],
+      "description": "Forbidden for people under 30 years old"
+    },
+    {
+      "meetingName": "Focus Room 5",
+      "id": "5",
+      "startDate": "2023-04-26T18:10:18.386Z",
+      "endDate": "2023-04-26T18:10:18.386Z",
+      "participants_id": [1, 2, 4, 3],
+      "description": "Exit"
+    },
+    {
+      "meeting_name": "ewdcds",
+      "meeting_description": "",
+      "startDate": "1111-11-11T06:15:54.480Z",
+      "endDate": "1111-11-11T07:15:54.480Z",
+      "participants": [2],
+      "id": "BuIc8vz"
+    },
+    {
+      "room_id": 1,
+      "owner_id": 1,
+      "participants_id": [],
+      "start_time": "2023-04-29T08:48:15.317Z",
+      "end_time": "2023-04-29T13:08:15.317Z",
+      "id": "i0L9ONK"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alexandru Mariustiuc",
+      "id": 1,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Maria Popovici",
+      "id": 2,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Alexei Serghei",
+      "id": 3,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Sulei Marianovici",
+      "id": 4,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Alexa Amazon",
+      "id": 5,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Dora Barbat",
+      "id": 6,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    },
+    {
+      "name": "Flavia Mioc",
+      "id": 7,
+      "available": true,
+      "image": "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar.png"
+    }
+  ]
+}
